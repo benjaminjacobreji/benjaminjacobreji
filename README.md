@@ -20,3 +20,5 @@ I'm a Computer Science student at [Heriot Watt University](https://www.hw.ac.uk/
 I like learning new stuff!    
 And I love coffee 😋
 aka, **Coffee + Code == ME**
+  
+Contact me at [benjaminjacobreji@gmail.com](mailto:benjaminjacobreji@gmail.com)

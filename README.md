@@ -1,6 +1,6 @@
 <h2> Hi, I'm Benjamin Jacob Reji! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/YPUh8SkoYuurwwV4bz/source.gif" width="230">
-<p><em>Student at <a href="https://www.hw.ac.uk/">Heriot Watt University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://hwtech.club/">HWTechClub</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Student at <a href="https://www.hw.ac.uk/">Heriot Watt University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>President of <a href="https://hwtech.club/">HWTechClub</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </br>I like learning new stuff!
 </br>And I love coffee 😋 aka, <b>Coffee + Code == ME</b>
 </em></p>  
